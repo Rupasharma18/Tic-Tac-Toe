@@ -11,5 +11,7 @@ The outcomes are:
 - Player 💀 wins!
 - Tie!
 
-![alt text](tictactoe.png)
 Built using Javascript, HTML and CSS.
+
+Screenshot:
+![alt text](tictactoe.png)

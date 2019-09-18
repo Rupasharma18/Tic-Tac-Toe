@@ -103,10 +103,10 @@ function Reset(){
 }
 
 function clickIcon(){
-    document.getElementById('show').innerHTML =  " your 💀";      
+    document.getElementById('show').innerHTML =  " your choose 💀";      
     
 }
 function clickIcons(){
-    document.getElementById('show').innerHTML =  " your 💣";      
+    document.getElementById('show').innerHTML =  " your choose 💣";      
     
 }
